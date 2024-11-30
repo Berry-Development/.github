@@ -1,1 +1,1 @@
-# .github
+# 👋 Hello! This is Berry Studio!
